@@ -1,0 +1,5 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Thu Jun 04 00:42:40 CEST 2020" lastAction="null" bids="0" runtime="4.691219058" deadline="60rounds">
+<resultsOfAgent agent="UIAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility_u20.xml" agentClass="agents.UIAgent" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Wed Jun 03 12:20:23 CEST 2020" timeOfAgreement="0.819672131147541" lastAction="(Accept  bid:Bid[Food: Handmade Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Water and Soap])" domain="etc/templates/partydomain/party_domain.xml" bids="98" runtime="0.632849574" finalOutcome="Bid[Food: Handmade Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Water and Soap]" startingAgent="BoulwareNegotiationParty@0" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@0" agentDesc="Time-based agent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" finalUtility="0.6791666666666667" discountedUtility="0.6791666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="boa-negotiator.boaframework.offeringstrategy.anac2010.AgentK_Offering-negotiator.boaframework.acceptanceconditions.anac2010.AC_AgentK-.Users.coke.Desktop.UPV.Cursos.Negociacion.Autom.tica.GABidding.bin.upv.es.bidding.GAOpponentModel_n_opponent_n-negotiator.boaframework.omstrategy.NTFTstrategy@1" agentDesc="BOA(2010 - AgentK,2010 - AgentK,Kmeans model,Offer Best Bids)" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="genius.core.repository.boa.BoaPartyRepItem$1" finalUtility="0.71638218264677" discountedUtility="0.71638218264677" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

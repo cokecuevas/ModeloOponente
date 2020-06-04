@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<boaPartiesList>
+    <boaparties partyName="coke">
+        <properties/>
+        <biddingStrategy>
+            <item classpath="negotiator.boaframework.offeringstrategy.anac2010.AgentK_Offering"/>
+        </biddingStrategy>
+        <acceptanceStrategy>
+            <item classpath="negotiator.boaframework.acceptanceconditions.anac2010.AC_AgentK"/>
+        </acceptanceStrategy>
+        <opponentModel>
+            <parameters name="n" value="20.0"/>
+            <parameters name="n_opponent" value="20.0"/>
+            <item classpath="/Users/coke/Desktop/UPV/Cursos/Negociacion Automática/GABidding/bin/upv/es/bidding/GAOpponentModel.class"/>
+        </opponentModel>
+        <omStrategy>
+            <item classpath="negotiator.boaframework.omstrategy.NTFTstrategy"/>
+        </omStrategy>
+    </boaparties>
+</boaPartiesList>

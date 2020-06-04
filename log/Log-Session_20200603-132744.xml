@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Wed Jun 03 13:27:46 CEST 2020" timeOfAgreement="0.830423940149626" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="664" runtime="2.035475663" finalOutcome="Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="SimpleAgent@6" deadline="400rounds">
+<resultsOfAgent agent="SimpleAgent@6" agentDesc="ANAC2017" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.anac.y2017.simpleagent.SimpleAgent" finalUtility="0.8740242984783759" discountedUtility="0.4289711524385956" discount="0.42441038">
+</resultsOfAgent>
+<resultsOfAgent agent="boa-negotiator.boaframework.offeringstrategy.anac2010.AgentK_Offering-negotiator.boaframework.acceptanceconditions.anac2010.AC_AgentK-.Users.coke.Desktop.UPV.Cursos.Negociacion.Autom.tica.GABidding.bin.upv.es.bidding.GAOpponentModel_n_opponent_n-negotiator.boaframework.omstrategy.NTFTstrategy@7" agentDesc="BOA(2010 - AgentK,2010 - AgentK,Kmeans model,Offer Best Bids)" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="genius.core.repository.boa.BoaPartyRepItem$1" finalUtility="0.874024298478376" discountedUtility="0.4289711524385957" discount="0.42441038">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

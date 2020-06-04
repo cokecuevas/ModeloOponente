@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agentsStatistics>
+    <statistics>
+        <totalUndiscountedUtility>1.0</totalUndiscountedUtility>
+        <totalDiscountedUtility>0.9860481692593485</totalDiscountedUtility>
+        <numberOfSessions>1</numberOfSessions>
+        <totalNashDist>0.0</totalNashDist>
+        <totalWelfare>1.972096338518697</totalWelfare>
+        <totalParetoDistance>0.0</totalParetoDistance>
+        <meanDiscounted>0.9860481692593485</meanDiscounted>
+        <meanNashDistance>0.0</meanNashDistance>
+        <meanParetoDistance>0.0</meanParetoDistance>
+        <meanUndiscounted>1.0</meanUndiscounted>
+        <meanWelfare>1.972096338518697</meanWelfare>
+    </statistics>
+    <statistics>
+        <agentname>agents.anac.y2011.TheNegotiator.TheNegotiator</agentname>
+        <totalUndiscountedUtility>1.0</totalUndiscountedUtility>
+        <totalDiscountedUtility>0.9860481692593485</totalDiscountedUtility>
+        <numberOfSessions>1</numberOfSessions>
+        <totalNashDist>0.0</totalNashDist>
+        <totalWelfare>1.972096338518697</totalWelfare>
+        <totalParetoDistance>0.0</totalParetoDistance>
+        <meanDiscounted>0.9860481692593485</meanDiscounted>
+        <meanNashDistance>0.0</meanNashDistance>
+        <meanParetoDistance>0.0</meanParetoDistance>
+        <meanUndiscounted>1.0</meanUndiscounted>
+        <meanWelfare>1.972096338518697</meanWelfare>
+    </statistics>
+</agentsStatistics>
